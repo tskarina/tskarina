@@ -40,11 +40,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tskarina&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/tskarina/tskarina/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">Social Media</h2>
 
