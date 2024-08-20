@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Karina Sodré, tenho 25 anos e sou estudante de programação.<br><br>Possuo um MBA em Desenvolvimento Full Stack pela XP Educação e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Uninove.<br><br>Meu primeiro contato com a programação foi com JavaScript, aprendendo tanto backend com Node.js quanto front-end com o framework React.<br><br>Atualmente, estou focada em desenvolver minhas habilidades em Java e expandir meu conhecimento nessa linguagem.<br><br>Embora tenha habilidades Full Stack, meu foco atual é no backend. Também tenho experiência com bancos de dados como MySQL, PostgreSQL e MongoDB.</p>
+<p align="left">Olá! Meu nome é Karina Sodré, tenho 25 anos e sou estudante de programação.<br><br>Possuo um MBA em Desenvolvimento Full Stack pela XP Educação e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Uninove.<br><br>Meu primeiro contato com a programação foi com JavaScript, aprendendo tanto backend com Node.js quanto frontend com o framework React.<br><br>Atualmente, estou focada em desenvolver minhas habilidades em Java e expandir meu conhecimento nessa linguagem.<br><br>Embora tenha habilidades Full Stack, meu foco atual é em backend. Também tenho experiência com bancos de dados como MySQL, PostgreSQL e MongoDB.</p>
 
 ###
 
